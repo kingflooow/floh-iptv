@@ -9,8 +9,9 @@ oder an Dritte.
   Werbung, keine Analyse- oder Absturzdienste und sendet nichts an eigene Server.
 - **Speicherung nur auf deinem Gerät**: Deine Einstellungen, Favoriten, der Playlist-Link,
   die geladene Senderliste und der Programmführer liegen ausschließlich im Speicher deines
-  Fernsehers oder Streaming-Geräts. Über *Einstellungen → Reset the app* oder durch
-  Deinstallieren löschst du alles.
+  Fernsehers, Streaming-Geräts oder PCs (unter Windows im Ordner
+  `%LOCALAPPDATA%\FLOH IPTV`). Über *Einstellungen → Reset the app*, durch Deinstallieren
+  oder unter Windows durch Löschen dieses Ordners entfernst du alles.
 - **Verbindungen nur zu deinen Adressen**: Die App verbindet sich nur mit den Adressen, die
   du selbst einträgst oder die deine Playlist enthält: Playlist, Programmführer, Streams und
   Senderlogos. Dabei sehen diese Server, wie bei jedem Abruf im Internet, deine IP-Adresse.

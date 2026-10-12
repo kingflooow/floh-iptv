@@ -1,6 +1,6 @@
 # FLOH IPTV
 
-Ein schneller IPTV-Player für **Samsung-Fernseher**, **Fire TV** und **Android TV**.
+Ein schneller IPTV-Player für **Samsung-Fernseher**, **Fire TV**, **Android TV** und **Windows**.
 Die App bringt keine Sender mit: Du trägst den M3U-Link deines eigenen Anbieters ein.
 
 ![Startseite](bilder/start.png)
@@ -11,6 +11,7 @@ Die App bringt keine Sender mit: Du trägst den M3U-Link deines eigenen Anbieter
 |---|---|---|
 | Fire TV, Android TV, Google TV | [FLOH-IPTV.apk](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.apk) | [Anleitung Fire TV / Android TV](ANLEITUNG-FIRETV.md) |
 | Samsung-Fernseher ab 2017 | [FLOH-IPTV.wgt](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.wgt) | [Anleitung Samsung](ANLEITUNG-SAMSUNG.md) |
+| Windows 10 und 11 | [FLOH-IPTV-windows.zip](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV-windows.zip) | [Anleitung Windows](ANLEITUNG-WINDOWS.md) |
 
 Ältere Versionen und Änderungen stehen unter [Releases](https://github.com/kingflooow/floh-iptv/releases).
 
@@ -32,6 +33,7 @@ Sie enthält acht erfundene Sender mit eigenen Demo-Bildern und Programm.
 - **Bildformat „Smart“**: SD-Sender füllen das ganze Bild statt schmal zu bleiben.
 - **Einstellungen** für Puffer, Senderwechsel, Bildformat und Programm, dazu die auf deinem
   Gerät gemessenen Ladezeiten.
+- **Am PC mit Maus und Tastatur**: zeigen wählt aus, Klick spielt ab, das Mausrad blättert.
 
 | Senderliste | Programm |
 |---|---|

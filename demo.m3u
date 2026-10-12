@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://kingflooow.github.io/floh-iptv/demo/epg.xml.gz"
+#EXTINF:-1 tvg-id="floh0" tvg-logo="https://kingflooow.github.io/floh-iptv/demo/logos/0.png" group-title="Sport",FLOH Sport 1
+https://kingflooow.github.io/floh-iptv/demo/pitch/index.m3u8
+#EXTINF:-1 tvg-id="floh1" tvg-logo="https://kingflooow.github.io/floh-iptv/demo/logos/1.png" group-title="Sport",FLOH Sport 2
+https://kingflooow.github.io/floh-iptv/demo/pitch/index.m3u8
+#EXTINF:-1 tvg-id="floh2" tvg-logo="https://kingflooow.github.io/floh-iptv/demo/logos/2.png" group-title="Nachrichten",FLOH News
+https://kingflooow.github.io/floh-iptv/demo/lake/index.m3u8
+#EXTINF:-1 tvg-id="floh3" tvg-logo="https://kingflooow.github.io/floh-iptv/demo/logos/3.png" group-title="Filme",FLOH Kino
+https://kingflooow.github.io/floh-iptv/demo/lake/index.m3u8
+#EXTINF:-1 tvg-id="floh4" tvg-logo="https://kingflooow.github.io/floh-iptv/demo/logos/4.png" group-title="Dokus",FLOH Doku
+https://kingflooow.github.io/floh-iptv/demo/lake/index.m3u8
+#EXTINF:-1 tvg-id="floh5" tvg-logo="https://kingflooow.github.io/floh-iptv/demo/logos/5.png" group-title="Dokus",FLOH Natur
+https://kingflooow.github.io/floh-iptv/demo/lake/index.m3u8
+#EXTINF:-1 tvg-id="floh6" tvg-logo="https://kingflooow.github.io/floh-iptv/demo/logos/6.png" group-title="Kinder",FLOH Kids
+https://kingflooow.github.io/floh-iptv/demo/lake/index.m3u8
+#EXTINF:-1 tvg-id="floh7" tvg-logo="https://kingflooow.github.io/floh-iptv/demo/logos/7.png" group-title="Musik",FLOH Musik
+https://kingflooow.github.io/floh-iptv/demo/lake/index.m3u8

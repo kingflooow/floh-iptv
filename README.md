@@ -14,6 +14,10 @@ Die App bringt keine Sender mit: Du trägst den M3U-Link deines eigenen Anbieter
 
 Ältere Versionen und Änderungen stehen unter [Releases](https://github.com/kingflooow/floh-iptv/releases).
 
+**Ausprobieren ohne eigene Liste:** Trag in der App diese Demo-Playlist ein:
+`https://kingflooow.github.io/floh-iptv/demo.m3u`
+Sie enthält acht erfundene Sender mit eigenen Demo-Bildern und Programm.
+
 ## Was die App kann
 
 - **Schnell auch bei riesigen Listen**: Playlist und Programmführer sind in Sekunden da und

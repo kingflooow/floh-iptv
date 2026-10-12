@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FLOH IPTV – schneller IPTV-Player für Samsung TV, Fire TV &amp; Android TV (kostenlos)</title>
+<meta name="description" content="Kostenloser IPTV-Player für deine eigene M3U-Playlist: lädt auch riesige Listen in Sekunden, mit TV-Programm (EPG), Live-Sport-Startseite und Favoriten. Für Samsung-Smart-TV (Tizen), Fire TV Stick und Android TV. Ohne Werbung, ohne Anmeldung.">
+<link rel="canonical" href="https://kingflooow.github.io/floh-iptv/">
+<meta name="theme-color" content="#0a0e28">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="de_DE">
+<meta property="og:site_name" content="FLOH IPTV">
+<meta property="og:title" content="FLOH IPTV – der schnelle IPTV-Player für Samsung TV, Fire TV &amp; Android TV">
+<meta property="og:description" content="Kostenlos, ohne Werbung: deine M3U-Playlist und das TV-Programm in Sekunden, mit Live-Sport-Startseite und Favoriten.">
+<meta property="og:url" content="https://kingflooow.github.io/floh-iptv/">
+<meta property="og:image" content="https://kingflooow.github.io/floh-iptv/assets/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="FLOH IPTV – der schnelle IPTV-Player">
+<meta name="twitter:description" content="Kostenloser IPTV-Player für Samsung TV, Fire TV und Android TV.">
+<meta name="twitter:image" content="https://kingflooow.github.io/floh-iptv/assets/og-image.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "FLOH IPTV",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Fire OS, Android TV, Google TV, Samsung Tizen",
+  "softwareVersion": "1.3.0",
+  "inLanguage": "de",
+  "description": "Schneller IPTV-Player für die eigene M3U-Playlist mit TV-Programm (EPG), Live-Sport-Startseite, Suche und Favoriten.",
+  "url": "https://kingflooow.github.io/floh-iptv/",
+  "downloadUrl": "https://github.com/kingflooow/floh-iptv/releases/latest",
+  "image": "https://kingflooow.github.io/floh-iptv/assets/logo-512.png",
+  "screenshot": "https://kingflooow.github.io/floh-iptv/assets/start.jpg",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "Kostet FLOH IPTV etwas?", "acceptedAnswer": { "@type": "Answer", "text": "Nein. FLOH IPTV ist kostenlos, ohne Werbung und ohne Anmeldung." } },
+    { "@type": "Question", "name": "Sind in FLOH IPTV Sender enthalten?", "acceptedAnswer": { "@type": "Answer", "text": "Nein. FLOH IPTV ist nur ein Player. Du trägst die M3U-Playlist deines eigenen Anbieters ein." } },
+    { "@type": "Question", "name": "Auf welchen Geräten läuft FLOH IPTV?", "acceptedAnswer": { "@type": "Answer", "text": "Auf Samsung-Smart-TVs ab 2017 (Tizen), auf allen Fire TV Sticks und Fire TV Cubes sowie auf Android-TV- und Google-TV-Geräten." } },
+    { "@type": "Question", "name": "Wie installiere ich FLOH IPTV auf dem Fire TV Stick?", "acceptedAnswer": { "@type": "Answer", "text": "Mit der App Downloader: Installation unbekannter Apps für Downloader erlauben, in Downloader den Link https://kingflooow.github.io/floh-iptv/apk eingeben und installieren." } },
+    { "@type": "Question", "name": "Wie installiere ich FLOH IPTV auf einem Samsung-Fernseher?", "acceptedAnswer": { "@type": "Answer", "text": "Den Entwicklermodus des Fernsehers einschalten und die Datei FLOH-IPTV.wgt mit dem kostenlosen Programm Apps2Samsung vom PC oder Android-Handy installieren." } },
+    { "@type": "Question", "name": "Warum lädt meine IPTV-Playlist so langsam?", "acceptedAnswer": { "@type": "Answer", "text": "Meist ist es nicht die Senderliste, sondern das riesige TV-Programm (EPG), das viele Player komplett einlesen. FLOH IPTV liest nur die Sender und Stunden, die du brauchst, im Hintergrund und speichert alles auf dem Gerät." } },
+    { "@type": "Question", "name": "Unterstützt FLOH IPTV ein TV-Programm (EPG)?", "acceptedAnswer": { "@type": "Answer", "text": "Ja. Das XMLTV-Programm wird aus der Playlist übernommen oder als eigener Link eingetragen und als Raster, in der Senderliste und in der Infoleiste angezeigt." } }
+  ]
+}
+</script>
+<style>
+  :root { --bg: #0a0e28; --panel: #121836; --line: #26305e; --text: #f2f4f8; --dim: #aab4d2; --accent: #6d5dfc; --accent2: #a65cff; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.55; }
+  a { color: #b9a8ff; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
+  header.hero { background: radial-gradient(ellipse at 75% 0%, #3a2a8a 0%, rgba(10,14,40,0) 60%); padding: 56px 0 40px; }
+  .hero .wrap { display: grid; grid-template-columns: 220px 1fr; gap: 36px; align-items: center; }
+  .hero img.logo { width: 220px; height: 220px; }
+  h1 { font-size: 46px; line-height: 1.1; margin: 0 0 12px; }
+  .lead { font-size: 21px; color: var(--dim); margin: 0 0 22px; }
+  .buttons { display: flex; flex-wrap: wrap; gap: 12px; }
+  .btn { display: inline-block; padding: 14px 22px; border-radius: 12px; font-weight: 700; text-decoration: none; color: #fff; background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+  .btn.ghost { background: transparent; border: 2px solid var(--line); color: var(--text); }
+  .small { font-size: 15px; color: var(--dim); margin-top: 14px; }
+  section { padding: 44px 0; border-top: 1px solid var(--line); }
+  h2 { font-size: 30px; margin: 0 0 18px; }
+  .shots { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  .shots figure { margin: 0; }
+  .shots img { width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--line); display: block; }
+  .shots figcaption { color: var(--dim); font-size: 15px; margin-top: 6px; }
+  .features { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 18px; }
+  .card h3 { margin: 0 0 6px; font-size: 19px; }
+  .card p { margin: 0; color: var(--dim); }
+  .steps { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  ol { margin: 8px 0 0; padding-left: 22px; }
+  code { background: #1b2350; padding: 2px 6px; border-radius: 6px; font-size: 0.95em; word-break: break-all; }
+  details { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; margin-bottom: 10px; }
+  summary { cursor: pointer; font-weight: 700; }
+  details p { color: var(--dim); margin: 10px 0 0; }
+  .share { display: grid; grid-template-columns: 180px 1fr; gap: 24px; align-items: center; }
+  .share img { width: 180px; height: 180px; border-radius: 12px; background: #fff; }
+  footer { padding: 30px 0 50px; color: var(--dim); font-size: 14px; border-top: 1px solid var(--line); }
+  @media (max-width: 800px) {
+    .hero .wrap, .steps, .share { grid-template-columns: 1fr; }
+    .hero img.logo { width: 150px; height: 150px; }
+    h1 { font-size: 34px; }
+    .shots, .features { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <img class="logo" src="assets/logo-512.png" alt="FLOH IPTV Logo" width="220" height="220">
+    <div>
+      <h1>FLOH IPTV – der schnelle IPTV-Player</h1>
+      <p class="lead">Für Samsung-Smart-TV, Fire TV Stick und Android TV. Deine M3U-Playlist und das TV-Programm in Sekunden, mit Live-Sport auf der Startseite.</p>
+      <div class="buttons">
+        <a class="btn" href="https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.apk">Für Fire TV &amp; Android TV</a>
+        <a class="btn" href="https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.wgt">Für Samsung TV</a>
+        <a class="btn ghost" href="#installieren">So installierst du es</a>
+      </div>
+      <p class="small">Kostenlos · ohne Werbung · ohne Anmeldung · Version 1.3.0</p>
+    </div>
+  </div>
+</header>
+
+<main>
+<section>
+  <div class="wrap">
+    <h2>So sieht FLOH IPTV aus</h2>
+    <div class="shots">
+      <figure><img src="assets/firetv-startseite.jpg" alt="Startseite mit Live-Sport, Kacheln und laufenden Sendungen" width="1280" height="720" loading="lazy"><figcaption>Startseite mit Live-Sport aus deinem Programm</figcaption></figure>
+      <figure><img src="assets/firetv-senderliste.jpg" alt="Senderliste mit Gruppen, Programm und Vorschau" width="1280" height="720" loading="lazy"><figcaption>Senderliste mit Gruppen und Vorschau</figcaption></figure>
+      <figure><img src="assets/firetv-programm.jpg" alt="TV-Programm als Raster" width="1280" height="720" loading="lazy"><figcaption>TV-Programm (EPG) als Raster</figcaption></figure>
+      <figure><img src="assets/firetv-vollbild.jpg" alt="Vollbild mit Infoleiste" width="1280" height="720" loading="lazy"><figcaption>Vollbild mit Infoleiste: jetzt und danach</figcaption></figure>
+    </div>
+    <p class="small">Die Bilder zeigen eine erfundene Demo-Senderliste auf einem Fire TV Stick 4K.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Was FLOH IPTV kann</h2>
+    <div class="features">
+      <div class="card"><h3>Schnell bei riesigen Listen</h3><p>Playlist und TV-Programm sind in Sekunden da und werden auf dem Gerät gespeichert. Die Senderliste blättert seitenweise.</p></div>
+      <div class="card"><h3>Startseite mit Live-Sport</h3><p>Die laufenden Spiele aus dem Programm deiner eigenen Sportsender, dazu Kacheln für Live TV, Kinder, Nachrichten und Favoriten.</p></div>
+      <div class="card"><h3>TV-Programm (EPG)</h3><p>Als Raster, in der Senderliste und in der Infoleiste. Suche nach Sendern und Sendungen.</p></div>
+      <div class="card"><h3>Hängt nicht fest</h3><p>Bleibt ein Sender stehen, wählt die App ihn selbst neu an und weicht danach auf eine andere Fassung oder den nächsten Sender aus.</p></div>
+      <div class="card"><h3>Volles Bild</h3><p>Das Bildformat „Smart“ zieht SD-Sender auf die ganze Breite, statt sie schmal zu lassen.</p></div>
+      <div class="card"><h3>Ohne Haken</h3><p>Kostenlos, ohne Werbung, ohne Konto. Deine Daten bleiben auf deinem Gerät.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="installieren">
+  <div class="wrap">
+    <h2>In wenigen Minuten installiert</h2>
+    <div class="steps">
+      <div class="card">
+        <h3>Fire TV &amp; Android TV</h3>
+        <ol>
+          <li>Die App <strong>Downloader</strong> installieren.</li>
+          <li>Unter <em>Einstellungen → Mein Fire TV → Entwickleroptionen</em> „Apps unbekannter Herkunft“ für Downloader erlauben.</li>
+          <li>In Downloader eingeben: <code>kingflooow.github.io/floh-iptv/apk</code></li>
+          <li>Installieren, öffnen, Playlist-Link eintragen.</li>
+        </ol>
+        <p class="small"><a href="ANLEITUNG-FIRETV.html">Ausführliche Anleitung</a></p>
+      </div>
+      <div class="card">
+        <h3>Samsung-Smart-TV (ab 2017)</h3>
+        <ol>
+          <li>Am Fernseher <em>Apps</em> öffnen, <strong>1 2 3 4 5</strong> drücken und den Entwicklermodus einschalten.</li>
+          <li>Das kostenlose Programm <a href="https://github.com/Apps2Samsung/Apps2Samsung/releases">Apps2Samsung</a> auf PC, Mac oder Android-Handy starten.</li>
+          <li>Die Datei <a href="https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.wgt">FLOH-IPTV.wgt</a> auswählen und installieren.</li>
+          <li>Öffnen, Playlist-Link eintragen.</li>
+        </ol>
+        <p class="small"><a href="ANLEITUNG-SAMSUNG.html">Ausführliche Anleitung</a></p>
+      </div>
+    </div>
+    <p class="small"><strong>Ohne eigene Liste ausprobieren:</strong> In der App die Demo-Playlist <code>https://kingflooow.github.io/floh-iptv/demo.m3u</code> eintragen. Acht erfundene Sender mit eigenen Demo-Bildern und Programm.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Häufige Fragen</h2>
+    <details><summary>Kostet FLOH IPTV etwas?</summary><p>Nein. FLOH IPTV ist kostenlos, ohne Werbung und ohne Anmeldung.</p></details>
+    <details><summary>Sind Sender enthalten?</summary><p>Nein. FLOH IPTV ist nur ein Player, so wie ein Videoplayer ohne Filme. Du trägst die M3U-Playlist deines eigenen Anbieters ein und bist für die Inhalte verantwortlich.</p></details>
+    <details><summary>Auf welchen Geräten läuft die App?</summary><p>Samsung-Smart-TVs ab Baujahr 2017 (Tizen), alle Fire TV Sticks (auch 4K und 4K Max) und Fire TV Cubes, Android-TV- und Google-TV-Geräte.</p></details>
+    <details><summary>Warum lädt meine IPTV-Playlist in anderen Apps so langsam?</summary><p>Meist ist es nicht die Senderliste, sondern das riesige TV-Programm (EPG) des Anbieters, oft hunderte Megabyte, das viele Player komplett einlesen. FLOH IPTV liest nur die Sender und Stunden, die du brauchst, im Hintergrund und speichert alles auf dem Gerät. Beim nächsten Start sind die Sender sofort da.</p></details>
+    <details><summary>Unterstützt die App ein TV-Programm (EPG)?</summary><p>Ja. Das XMLTV-Programm wird aus der Playlist übernommen oder in den Einstellungen als eigener Link eingetragen.</p></details>
+    <details><summary>Was passiert, wenn ein Sender hängt?</summary><p>Die App merkt, wenn das Bild stehen bleibt oder ein Sender nicht startet, wählt ihn selbst neu an und weicht danach auf eine andere Fassung (zum Beispiel SD statt HD) oder den nächsten Sender aus.</p></details>
+    <details><summary>Wie sieht es mit Datenschutz aus?</summary><p>Die App sammelt keine Daten und sendet nichts an uns. Einstellungen und Favoriten bleiben auf deinem Gerät. <a href="DATENSCHUTZ.html">Datenschutzerklärung</a></p></details>
+  </div>
+</section>
+
+<section>
+  <div class="wrap share">
+    <img src="assets/qr-floh-iptv.png" alt="QR-Code zu FLOH IPTV" width="180" height="180" loading="lazy">
+    <div>
+      <h2>Weitersagen</h2>
+      <p>Dir gefällt FLOH IPTV? Zeig den QR-Code oder schick den Link: <code>kingflooow.github.io/floh-iptv</code></p>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    FLOH IPTV ist ausschließlich ein Abspielprogramm und gehört zu keinem IPTV-Anbieter. Es enthält keine Sender, Playlists oder Zugänge.
+    · <a href="DATENSCHUTZ.html">Datenschutz</a> · <a href="https://github.com/kingflooow/floh-iptv">GitHub</a> · <a href="https://github.com/kingflooow/floh-iptv/issues">Fragen &amp; Fehler</a>
+  </div>
+</footer>
+</body>
+</html>

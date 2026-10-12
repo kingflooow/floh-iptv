@@ -14,7 +14,8 @@ bringt keine Sender mit: Du trägst den Playlist-Link deines eigenen Anbieters e
    Fehlen die Entwickleroptionen: **Einstellungen → Mein Fire TV → Info** öffnen und
    sieben Mal auf den Gerätenamen klicken.
 3. Downloader öffnen und diesen Link eingeben:
-   `https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.apk`
+   `kingflooow.github.io/floh-iptv/apk`
+   (oder ausführlich: `https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.apk`)
 4. **Installieren**, danach **Öffnen**. FLOH IPTV steht danach unter *Apps*.
 
 ## Android TV / Google TV

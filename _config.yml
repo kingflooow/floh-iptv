@@ -1,0 +1,8 @@
+title: FLOH IPTV
+description: Kostenloser IPTV-Player für Samsung TV, Fire TV und Android TV
+lang: de
+url: https://kingflooow.github.io
+baseurl: /floh-iptv
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

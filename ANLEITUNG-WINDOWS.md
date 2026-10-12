@@ -1,5 +1,7 @@
 # FLOH IPTV unter Windows installieren
 
+*[English](INSTALL-WINDOWS.md) · Deutsch*
+
 FLOH IPTV ist ein Player für IPTV-Playlists (M3U) mit Programmführer. Die App
 bringt keine Sender mit: Du trägst den Playlist-Link deines eigenen Anbieters ein.
 

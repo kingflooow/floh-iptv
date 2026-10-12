@@ -1,50 +1,52 @@
 # FLOH IPTV
 
-Ein schneller IPTV-Player für **Samsung-Fernseher**, **Fire TV**, **Android TV** und **Windows**.
-Die App bringt keine Sender mit: Du trägst den M3U-Link deines eigenen Anbieters ein.
+*English · [Deutsch](README.de.md)*
 
-![Startseite](bilder/start.png)
+A fast IPTV player for **Samsung TVs**, **Fire TV**, **Android TV** and **Windows**.
+It brings no channels: you enter the M3U link of your own provider.
 
-## Herunterladen
+![Home screen](bilder/start.png)
 
-| Gerät | Datei | Anleitung |
+## Download
+
+| Device | File | Guide |
 |---|---|---|
-| Fire TV, Android TV, Google TV | [FLOH-IPTV.apk](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.apk) | [Anleitung Fire TV / Android TV](ANLEITUNG-FIRETV.md) |
-| Samsung-Fernseher ab 2017 | [FLOH-IPTV.wgt](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.wgt) | [Anleitung Samsung](ANLEITUNG-SAMSUNG.md) |
-| Windows 10 und 11 | [FLOH-IPTV-windows.zip](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV-windows.zip) | [Anleitung Windows](ANLEITUNG-WINDOWS.md) |
+| Fire TV, Android TV, Google TV | [FLOH-IPTV.apk](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.apk) | [Fire TV / Android TV guide](INSTALL-FIRETV.md) |
+| Samsung TVs from 2017 | [FLOH-IPTV.wgt](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV.wgt) | [Samsung guide](INSTALL-SAMSUNG.md) |
+| Windows 10 and 11 | [FLOH-IPTV-windows.zip](https://github.com/kingflooow/floh-iptv/releases/latest/download/FLOH-IPTV-windows.zip) | [Windows guide](INSTALL-WINDOWS.md) |
 
-Ältere Versionen und Änderungen stehen unter [Releases](https://github.com/kingflooow/floh-iptv/releases).
+Older versions and changes are under [Releases](https://github.com/kingflooow/floh-iptv/releases).
 
-**Ausprobieren ohne eigene Liste:** Trag in der App diese Demo-Playlist ein:
+**Try it without a list of your own:** enter this demo playlist in the app:
 `https://kingflooow.github.io/floh-iptv/demo.m3u`
-Sie enthält acht erfundene Sender mit eigenen Demo-Bildern und Programm.
+It has eight invented channels with demo pictures and a guide of their own.
 
-## Was die App kann
+## What it does
 
-- **Schnell auch bei riesigen Listen**: Playlist und Programmführer sind in Sekunden da und
-  werden auf dem Gerät gespeichert; die Senderliste blättert seitenweise.
-- **Startseite** mit den Live-Spielen aus dem Programm deiner eigenen Sportsender, Kacheln für
-  Live TV, Sport, Kinder, Nachrichten, Programm und Favoriten.
-- **Senderliste** mit Gruppen, Vorschau, Favoriten, Senderwahl per Zahl und Suche nach
-  Sendern und Sendungen.
-- **TV-Programm** (EPG) als Raster über die nächsten Stunden.
-- **Hängt ein Sender**, wählt die App ihn selbst neu an und weicht danach auf eine andere
-  Fassung (z. B. SD statt HD) oder den nächsten Sender aus.
-- **Bildformat „Smart“**: SD-Sender füllen das ganze Bild statt schmal zu bleiben.
-- **Einstellungen** für Puffer, Senderwechsel, Bildformat und Programm, dazu die auf deinem
-  Gerät gemessenen Ladezeiten.
-- **Am PC mit Maus und Tastatur**: zeigen wählt aus, Klick spielt ab, das Mausrad blättert.
+- **Fast even with huge lists**: playlist and TV guide are ready in seconds and kept on the
+  device; the channel list scrolls page by page.
+- **Home screen** with the live matches from the guide of your own sport channels, and tiles for
+  Live TV, Sport, Kids, News, TV Guide and Favorites.
+- **Channel list** with groups, preview, favorites, channel numbers and a search for channels
+  and programmes.
+- **TV guide** (EPG) as a grid over the next hours.
+- **A channel that freezes** is reopened by the app itself, which then moves to another version
+  (SD instead of HD, for example) or the next channel.
+- **"Smart" picture format**: SD channels fill the whole picture instead of staying narrow.
+- **Settings** for buffering, zapping, picture format and the guide, with the load times measured
+  on your device.
+- **On a PC with mouse and keyboard**: pointing selects, a click plays, the wheel scrolls.
 
-| Senderliste | Programm |
+| Channel list | TV guide |
 |---|---|
-| ![Senderliste](bilder/senderliste.png) | ![Programm](bilder/programm.png) |
-| **Vollbild mit Infoleiste** | **Einstellungen** |
-| ![Vollbild](bilder/vollbild.png) | ![Einstellungen](bilder/einstellungen.png) |
+| ![Channel list](bilder/senderliste.png) | ![TV guide](bilder/programm.png) |
+| **Full screen with info bar** | **Settings** |
+| ![Full screen](bilder/vollbild.png) | ![Settings](bilder/einstellungen.png) |
 
-## Hinweis
+## Note
 
-FLOH IPTV ist ausschließlich ein Abspielprogramm. Es enthält keine Sender, Playlists oder
-Zugänge und gehört zu keinem Anbieter. Für die Inhalte, die du über deine eigene Playlist
-abspielst, bist du selbst verantwortlich. Die Bilder zeigen eine erfundene Senderliste.
+FLOH IPTV is only a player. It contains no channels, playlists or subscriptions and belongs to no
+provider. You are responsible for what you play with your own playlist. The pictures show an
+invented line-up.
 
-[Datenschutz](DATENSCHUTZ.md) · Fragen und Fehler bitte unter [Issues](https://github.com/kingflooow/floh-iptv/issues).
+[Privacy](PRIVACY.md) · Questions and bugs: [Issues](https://github.com/kingflooow/floh-iptv/issues).

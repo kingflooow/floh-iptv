@@ -1,5 +1,7 @@
 # Datenschutz
 
+*[English](PRIVACY.md) · Deutsch*
+
 Stand: 12. Oktober 2026
 
 FLOH IPTV erhebt, speichert und überträgt keine personenbezogenen Daten an die Entwickler
@@ -18,13 +20,3 @@ oder an Dritte.
   Für deren Umgang mit Daten gilt die Datenschutzerklärung deines Anbieters.
 
 Fragen zum Datenschutz bitte unter [Issues](https://github.com/kingflooow/floh-iptv/issues).
-
----
-
-# Privacy policy (English)
-
-FLOH IPTV does not collect, store or transmit personal data to its developers or to third
-parties. It has no account, no ads and no analytics. Settings, favorites, the playlist link,
-the channel list and the programme guide are stored only on your device. The app connects
-only to the addresses you enter or that your playlist contains (playlist, guide, streams,
-channel logos); those servers see your IP address as with any internet request.

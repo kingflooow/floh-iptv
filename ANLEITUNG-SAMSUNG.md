@@ -1,5 +1,7 @@
 # FLOH IPTV auf einem Samsung-Fernseher installieren
 
+*[English](INSTALL-SAMSUNG.md) · Deutsch*
+
 FLOH IPTV ist ein Player für IPTV-Playlists (M3U) mit Programmführer. Die App
 bringt keine Sender mit: Du trägst den Playlist-Link deines eigenen Anbieters ein.
 

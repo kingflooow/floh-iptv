@@ -33,6 +33,11 @@ It has eight invented channels with demo pictures and a guide of their own.
 - **A channel that freezes** is reopened by the app itself, which then moves to another version
   (SD instead of HD, for example) or the next channel.
 - **"Smart" picture format**: SD channels fill the whole picture instead of staying narrow.
+- **Several playlists** side by side, each with its own favorites and guide; switch between
+  them in the settings.
+- **Playlist reload** from every minute to once a week, also while the app runs, for providers
+  whose links expire; the channel you watch keeps playing.
+- **PIN lock** (optional, off by default): asked for at start and after standby.
 - **Settings** for buffering, zapping, picture format and the guide, with the load times measured
   on your device.
 - **On a PC with mouse and keyboard**: pointing selects, a click plays, the wheel scrolls.

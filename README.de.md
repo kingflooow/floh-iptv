@@ -33,6 +33,11 @@ Sie enthält acht erfundene Sender mit eigenen Demo-Bildern und Programm.
 - **Hängt ein Sender**, wählt die App ihn selbst neu an und weicht danach auf eine andere
   Fassung (z. B. SD statt HD) oder den nächsten Sender aus.
 - **Bildformat „Smart“**: SD-Sender füllen das ganze Bild statt schmal zu bleiben.
+- **Mehrere Playlists** nebeneinander, jede mit eigenen Favoriten und eigenem Programm; gewechselt
+  wird in den Einstellungen.
+- **Playlist neu laden** von jeder Minute bis einmal pro Woche, auch während die App läuft, für
+  Anbieter, deren Links ablaufen; der laufende Sender spielt weiter.
+- **PIN-Sperre** (freiwillig, standardmäßig aus): beim Start und nach dem Standby.
 - **Einstellungen** für Puffer, Senderwechsel, Bildformat und Programm, dazu die auf deinem
   Gerät gemessenen Ladezeiten.
 - **Am PC mit Maus und Tastatur**: zeigen wählt aus, Klick spielt ab, das Mausrad blättert.

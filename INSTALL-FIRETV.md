@@ -40,12 +40,12 @@ apps when the device asks the first time.
 | OK (centre) | open the channel list, play a channel |
 | Up / Down | next / previous channel |
 | ⏩ / ⏪ | next / previous channel, a page in the list |
-| ⏯ | info bar |
+| ⏯ | info bar; in the channel list: options (favorite, hide a channel or group) |
 | ☰ (menu) | settings |
 | Back | hide the info bar, then Home; twice on Home: exit |
 
 Remotes with colour and channel keys (many Android TV devices) work as on a Samsung TV:
-YELLOW favorite, GREEN favorites, BLUE settings, CH+/CH- channels.
+YELLOW favorite (in the channel list: options), GREEN favorites, BLUE settings, CH+/CH- channels.
 
 ![Full screen with info bar](bilder/firetv-vollbild.png)
 

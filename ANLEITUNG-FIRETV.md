@@ -40,12 +40,12 @@ die Installation unbekannter Apps für Downloader, wenn das Gerät danach fragt.
 | OK (Mitte) | Senderliste öffnen, Sender abspielen |
 | Hoch / Runter | nächster / vorheriger Sender |
 | ⏩ / ⏪ | Sender weiter / zurück, in der Liste eine Seite |
-| ⏯ | Infoleiste |
+| ⏯ | Infoleiste; in der Senderliste: Optionen (Favorit, Sender oder Gruppe ausblenden) |
 | ☰ (Menü) | Einstellungen |
 | Zurück | Infoleiste weg, dann Startseite; auf der Startseite zweimal: beenden |
 
 Fernbedienungen mit Farb- und Kanaltasten (viele Android-TV-Geräte) funktionieren wie am
-Samsung-Fernseher: GELB Favorit, GRÜN Favoriten, BLAU Einstellungen, CH+/CH- Sender.
+Samsung-Fernseher: GELB Favorit (in der Senderliste: Optionen), GRÜN Favoriten, BLAU Einstellungen, CH+/CH- Sender.
 
 ![Vollbild mit Infoleiste](bilder/firetv-vollbild.png)
 

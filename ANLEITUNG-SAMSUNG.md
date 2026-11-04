@@ -45,7 +45,7 @@ bringt keine Sender mit: Du trägst den Playlist-Link deines eigenen Anbieters e
 | OK | Senderliste öffnen, Sender abspielen |
 | Hoch / Runter, CH+ / CH- | nächster / vorheriger Sender |
 | Links / Rechts in der Liste | ganze Seite blättern |
-| GELB | Favorit an/aus |
+| GELB | Vollbild: Favorit an/aus; Senderliste: Optionen (Favorit, Sender oder Gruppe ausblenden) |
 | GRÜN | Favoriten |
 | BLAU | Einstellungen |
 | ZURÜCK | Infoleiste weg, dann Startseite; auf der Startseite zweimal: beenden |

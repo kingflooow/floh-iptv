@@ -46,7 +46,7 @@ enter the playlist link of your own provider.
 | OK | open the channel list, play a channel |
 | Up / Down, CH+ / CH- | next / previous channel |
 | Left / Right in the list | a whole page |
-| YELLOW | favorite on/off |
+| YELLOW | full screen: favorite on/off; channel list: options (favorite, hide a channel or group) |
 | GREEN | favorites |
 | BLUE | settings |
 | BACK | hide the info bar, then Home; twice on Home: exit |

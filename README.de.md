@@ -38,6 +38,10 @@ Sie enthält acht erfundene Sender mit eigenen Demo-Bildern und Programm.
 - **Playlist neu laden** von jeder Minute bis einmal pro Woche, auch während die App läuft, für
   Anbieter, deren Links ablaufen; der laufende Sender spielt weiter.
 - **PIN-Sperre** (freiwillig, standardmäßig aus): beim Start und nach dem Standby.
+- **Sender und Gruppen ausblenden**, die du nie sehen willst, zum Beispiel Erwachseneninhalte;
+  die Einstellungen zeigen sie wieder an (hinter der PIN, wenn eine gesetzt ist).
+- **Bildqualität in der Infoleiste**: SD, HD, Full HD oder 4K, dazu die Bildrate (Fire TV,
+  Android TV, Windows) oder die Bitrate (Samsung).
 - **Einstellungen** für Puffer, Senderwechsel, Bildformat und Programm, dazu die auf deinem
   Gerät gemessenen Ladezeiten.
 - **Am PC mit Maus und Tastatur**: zeigen wählt aus, Klick spielt ab, das Mausrad blättert.

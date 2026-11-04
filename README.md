@@ -38,6 +38,10 @@ It has eight invented channels with demo pictures and a guide of their own.
 - **Playlist reload** from every minute to once a week, also while the app runs, for providers
   whose links expire; the channel you watch keeps playing.
 - **PIN lock** (optional, off by default): asked for at start and after standby.
+- **Hide channels and groups** you never want to see, for example adult content; the settings
+  show them again (behind the PIN if one is set).
+- **Picture quality in the info bar**: SD, HD, Full HD or 4K, with the frame rate (Fire TV,
+  Android TV, Windows) or the bit rate (Samsung).
 - **Settings** for buffering, zapping, picture format and the guide, with the load times measured
   on your device.
 - **On a PC with mouse and keyboard**: pointing selects, a click plays, the wheel scrolls.
